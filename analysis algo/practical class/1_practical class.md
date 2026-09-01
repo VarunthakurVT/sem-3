@@ -96,6 +96,11 @@ The instructor highlighted that repeated checks should be identified during comp
 
 The implementation should be examined for unnecessary repeated loops or traversals rather than only counting the final output operation
 
+
+
+
+- [ ] learn the inseration sort....
+
 ---
 
 ## Action items
