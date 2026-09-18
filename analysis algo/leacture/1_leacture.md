@@ -229,3 +229,4 @@ The instructor linked the explanation to the students’ current workload, which
 **Instructor**: Continue covering time and space complexity together with divide-and-conquer, using examples and exercises in upcoming classes
 
 **Students**: Study algorithm fundamentals and use MIT OpenCourseWare’s _Introduction to Algorithms_ and Cormen’s textbook for deeper preparation, especially for placements and competitive exams
+[[analysis algo/leacture/3_leacture|3_leacture]]

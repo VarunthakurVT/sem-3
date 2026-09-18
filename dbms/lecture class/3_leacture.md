@@ -173,3 +173,4 @@ Bioinformatics and computational biology were briefly discussed as areas where c
 The instructor explained that bioinformatics involves computational analysis of biological or health data rather than being limited to biotechnology
 
 Public computers may create data-security concerns; students were encouraged to consider whether sensitive work should be performed on shared systems or personal laptops
+[[dbms/lecture class/5_leacture|5_leacture]]

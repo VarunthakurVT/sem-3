@@ -171,3 +171,4 @@ In contrast, (n^2) and (n) do not have the same dominant growth rate and cannot 
 The instructor briefly addressed classroom distractions, seating, attendance, and side conversations
 
 The lecture ended with informal remarks about attendance and gaining experience
+[[analysis algo/leacture/6_leacture|6_leacture]]

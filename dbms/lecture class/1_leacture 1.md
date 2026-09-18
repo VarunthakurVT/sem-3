@@ -198,3 +198,4 @@ Students were encouraged to participate in every technical and non-technical col
 **Students**: Create individual folders, save every practical as a soft copy, and submit personal work for checking.
 
 **Students**: Attend quizzes and practical sessions regularly, maintain the required academic performance, and participate in college events.
+[[dbms/lecture class/3_leacture|3_leacture]]

@@ -130,3 +130,4 @@ The final portion included informal classroom conversation about books, cards, a
 **Students**: Use `git status`, `git add`, `git commit -m`, `git switch`, `git merge`, and `git log` in the demonstrated sequence
 
 **Students**: Practice `git pull`, branch renaming, and the introductory `git ignore` command
+[[gitclass/leactures/6_leacture|6_leacture]]

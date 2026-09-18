@@ -162,3 +162,4 @@ The class also discussed an upcoming lab and whether students should move to ano
 **Instructor**: Continue with repository initialization and new repository creation in the next class
 
 **Instructor**: Share or prepare class notes covering the Git definitions, commands, and workflows
+[[gitclass/leactures/5_leacture|5_leacture]]

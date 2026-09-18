@@ -215,3 +215,4 @@ The examples were framed as useful for coding interviews and for future DSA topi
 **Students**: Continue practicing asymptotic-notation and time-complexity comparison questions.
 
 **Students**: Remind the instructor in the lab to provide two additional practice questions.
+[[8_lecture]]

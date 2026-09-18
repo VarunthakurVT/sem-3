@@ -131,3 +131,4 @@ Merge instructions were deferred until the branch creation, switching, editing, 
 **Students**: Create or edit a test file on the feature branch, commit it, and compare the folder contents across branches
 
 **Students**: Avoid making feature changes directly on `master`; practice merging only after verification
+[[7_practical]]

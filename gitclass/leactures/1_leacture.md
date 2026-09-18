@@ -67,3 +67,4 @@ Attendance and identity checks occupied the closing portion of the session; name
 **Class representative (CR)**: Create the class WhatsApp group, add the students, and share notes
 
 **Instructor**: Provide time for Git installation, basic Git Bash practice, and further discussion in the next class
+[[gitclass/leactures/2_leacture|2_leacture]]

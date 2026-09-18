@@ -117,3 +117,4 @@ A laptop was considered necessary for at least one upcoming practical session, w
 **Students**: Complete the current lab assignment and submit any required work by the stated deadline
 
 **Instructor**: Help affected students complete the correct software installation and resolve service or version issue
+[[dbms/practical class/3_practical|3_practical]]
