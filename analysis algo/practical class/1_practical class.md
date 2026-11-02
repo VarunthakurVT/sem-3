@@ -114,4 +114,4 @@ The implementation should be examined for unnecessary repeated loops or traversa
 **Student**: Install MSYS2, run the integration command, and configure the required path
 
 **Student**: Prepare and practice the binary-search implementation for the next class
-[[4_practical]]
+[[analysis algo/practical class/4_practical]]
